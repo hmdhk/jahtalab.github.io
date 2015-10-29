@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Hamidreza Jahtalab
+tagline:          'Hamidreza Jahtalab's Personal Blog'
+description:      'awesome stuff'
+url:              http://jahtalab.github.io
+baseurl:          /
+
+author:
+  name:           'Hamidreza Jahtalab'
+  url:            http://jahtalab.github.io
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/jahtalab
