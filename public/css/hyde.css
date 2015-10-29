@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 20rem;
     text-align: left;
   }
 }
@@ -247,4 +247,29 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* Mine 
+.theme-mine .sidebar {
+  background-color: #BB1B0A;
+}
+.theme-mine .content a,
+.theme-mine .related-posts li a:hover {
+  color: #BB1B0A;
+}*/
+/* Mine 
+.theme-mine .sidebar {
+  background-color: #504C6B;
+}
+.theme-mine .content a,
+.theme-mine .related-posts li a:hover {
+  color: #504C6B;
+}*/
+/* Mine */
+.theme-mine .sidebar {
+  background-color: #5347A5;
+}
+.theme-mine .content a,
+.theme-mine .related-posts li a:hover {
+  color: #5347A5;
 }
